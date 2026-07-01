@@ -39,7 +39,7 @@ Each assignment typically includes:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/harsh-narayan-nishad/Cohort-Assignment.git
 ```
 
 Navigate to an assignment:
